@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncCsvReader", "AsyncCsvReader\AsyncCsvReader.csproj", "{DDF50700-63A6-41D7-9449-58987BE862FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDF50700-63A6-41D7-9449-58987BE862FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDF50700-63A6-41D7-9449-58987BE862FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDF50700-63A6-41D7-9449-58987BE862FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDF50700-63A6-41D7-9449-58987BE862FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
