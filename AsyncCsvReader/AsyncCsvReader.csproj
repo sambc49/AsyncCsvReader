@@ -12,5 +12,11 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="System.Threading" Version="4.3.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="Resources\EmployeeData.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 </Project>
