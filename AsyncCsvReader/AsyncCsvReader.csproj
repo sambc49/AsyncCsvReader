@@ -9,6 +9,8 @@
     <Folder Include="Models\" />
     <Folder Include="Services\" />
     <Folder Include="Resources\" />
+    <Folder Include="bin\Debug\netcoreapp3.1\" />
+    <Folder Include="bin\Debug\netcoreapp3.1\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="System.Threading" Version="4.3.0" />
@@ -16,7 +18,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Update="Resources\EmployeeData.csv">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>
 </Project>
